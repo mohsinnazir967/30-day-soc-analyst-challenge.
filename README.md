@@ -59,6 +59,8 @@ The **MyDFIR 30-Day SOC Analyst Challenge** is a free, practical programme desig
 
 ## 🗺️ Lab Architecture
 
+[Network_Diagram](./images/Network_Diagram.png) |
+
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                       Vultr Cloud                        │
@@ -183,7 +185,7 @@ The **MyDFIR 30-Day SOC Analyst Challenge** is a free, practical programme desig
 
 SOC Analyst in training — building hands-on skills through real lab environments, structured challenges, and cybersecurity investigation games.
 
-- 📍 Rawalpindi, Pakistan
+- 📍 Islamabad, Pakistan
 
 ---
 
