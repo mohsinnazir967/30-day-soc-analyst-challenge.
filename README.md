@@ -59,7 +59,7 @@ The **MyDFIR 30-Day SOC Analyst Challenge** is a free, practical programme desig
 
 ## 🗺️ Lab Architecture
 
-[Network_Diagram](./images/Network_Diagram.png) |
+![Network Diagram](images/Network_Diagram.png)
 
 ```
 ┌──────────────────────────────────────────────────────────┐
